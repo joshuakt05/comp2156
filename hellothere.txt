@@ -1,1 +1,0 @@
-hello there! this is just so i can make sure my new MacBook Neo is configured correcrtly with git.
